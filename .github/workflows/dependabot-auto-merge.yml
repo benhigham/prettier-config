@@ -18,4 +18,4 @@ jobs:
       pull-requests: write
     # Reusable workflow from benhigham/.github. For debugging failures, see:
     # https://github.com/benhigham/.github/blob/main/.github/workflows/auto-merge-dependabot.yml
-    uses: benhigham/.github/.github/workflows/auto-merge-dependabot.yml@bbf313580f9e36aa7208f7f663a5bac44c4c2704
+    uses: benhigham/.github/.github/workflows/auto-merge-dependabot.yml@62c1f964ae0240e9610912c9ee9f427f3a5383aa
